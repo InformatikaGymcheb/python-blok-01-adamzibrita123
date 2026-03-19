@@ -5,6 +5,7 @@
 jmeno = input("Zadej své jméno: ")
 mesto = input("Zadej město, ve kterém bydlíš: ")
 print (f"Těší mě {jmeno}, bydlíš ve skvělém městě s názvem {mesto}.")
+print()
 
 # ==========================================
 # ÚLOHA 2: Jednoduchá kalkulačka (součet)
@@ -14,6 +15,7 @@ print (f"Těší mě {jmeno}, bydlíš ve skvělém městě s názvem {mesto}.")
 x = int(input("Zadej 1. číslo: "))
 y = int(input("Zadej 2. číslo: "))
 print (f"Výsledek je: {x+y}")
+print()
 
 # ==========================================
 # ÚLOHA 3: Výpočet psího věku (věk * 7)
